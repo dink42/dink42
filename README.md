@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all of the above, as well trying to get the hang of Azure and google cloud, and all of those. I done a pretty website in a webhotell but It was just = - for the experience.
 - 💞️ I’m looking to collaborate on anything i can, anyone at any skill I'm honored If I can help in any way!
 - 📫 How to reach me, just send a message, here or my mail or the chatroom!
-- Send me tips if you want! Where i can find more low tier projects to contribute and help on. I been trying to learn yamln forever, will probably open an issue on that.
+- Send me tips if you want! Where i can find more low tier projects to contribute and help on. I been trying to get the hang of yalm files, get it to work but need to read up on it more.
 - Best Regards and happy coding!
 
 <!---
