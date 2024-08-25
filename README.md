@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @dink42
+# 👋 Hi, I’m @Lucasardi
 ---
 - 👀 I’m interested in coding, most languages now is JavaScript, Node.js, Python, Java, C# im intrested in learning anything new that Is good tools for my progress.
 - 🌱 I’m focusing on one language at a time and the best one fitted for what I want to do.
